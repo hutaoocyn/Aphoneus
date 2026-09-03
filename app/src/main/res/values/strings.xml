@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aphoneus</string>
+    <string name="app_tagline">Kernel Topology &amp; DVFS Power Orchestrator</string>
+    <string name="tile_label">Aphoneus Mode</string>
+    <string name="notification_channel_name">Aphoneus System Guard</string>
+    <string name="notification_channel_desc">Active power profile status and thermal watchdog alerts</string>
+
+    <!-- Navigation Destinations -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_modes">Modes</string>
+    <string name="nav_cooling">Cooling</string>
+    <string name="nav_custom">Tuning</string>
+    <string name="nav_diagnostics">Diagnostics</string>
+
+    <!-- Mode Names -->
+    <string name="mode_performance">Performance</string>
+    <string name="mode_balanced">Balanced</string>
+    <string name="mode_battery_saver">Battery Saver</string>
+    <string name="mode_custom">Custom Profile</string>
+</resources>
